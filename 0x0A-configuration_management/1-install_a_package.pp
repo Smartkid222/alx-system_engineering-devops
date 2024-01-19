@@ -1,6 +1,6 @@
-# install puppet-lint 2.1.1
+# install puppet-lint 3.0.1
 
 package { 'puppet-lint':
-  ensure   => '2.1.1',
+  ensure   => '3.0.1',
   provider => 'gem',
 }
